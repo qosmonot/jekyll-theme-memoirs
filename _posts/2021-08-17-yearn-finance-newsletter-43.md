@@ -7,7 +7,7 @@ categories: [ Yearn.finance ]
 image: assets/images/7.jpg
 ---
 
-![](image1.jpg)
+![](assets/images/YN43-image1.jpg)
 
 Yearn Finance Bülteninin 43. baskısına hoş geldiniz. Bu bültenle amacımız Yearn'i ve daha geniş kripto topluluğunu -ürün lansmanları, yönetim değişiklikleri ve ekosistem güncellemeleri de dahil olmak üzere- en son gelişmelerden haberdar etmektir. Yearn Finance hakkında daha fazla bilgi edinmek istiyorsanız resmi [Twitter](https://twitter.com/iearnfinance) ve [Medium](https://medium.com/iearn) hesaplarımızı takip edin.
 
