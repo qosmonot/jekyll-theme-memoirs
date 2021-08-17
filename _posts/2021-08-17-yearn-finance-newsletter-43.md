@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Yearn Finance Bülteni #43"
