@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Yearn Finance Bülteni #43"
-author: 
 categories: [ Yearn.finance ]
 image: assets/images/YN43-image1.jpg
 ---
