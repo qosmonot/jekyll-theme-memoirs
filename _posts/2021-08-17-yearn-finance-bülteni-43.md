@@ -18,7 +18,7 @@ Yearn Finance Bülteninin 43. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## **YIP-63: Fon Oluşturucu-İlk DAO Yasal Aktivizmi**
 
-![](YN43-image2.jpg)
+![](https://raw.githubusercontent.com/qosmonot/jekyll-theme-memoirs/master/assets/images/YN43-image2.jpg)
 ![](assets/images/YN43-image2.jpg)
 ![](./assets/images/YN43-image2.jpg)
 ![](../assets/images/YN43-image2.jpg)
