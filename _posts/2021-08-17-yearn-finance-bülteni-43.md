@@ -32,7 +32,7 @@ YIP onaylandı. Sonuçları [buradan](https://gov.yearn.finance/t/proposal-fund-
 
 ## **Alchemix, Yearn v2'ye Taşınıyor**
 
-![](YN43-image3.jpg)
+![](../assets/images/YN43-image3.jpg)
 
 Alchemix, son çıkan yenyvDAI'ya başarıyla taşındı. Grafikteki küçük artış, v1 vault'larından v2 vault'larına geçişte 400 milyon dolardır. DeFi için en yüksek getiri sağlayan backend olmaktan gurur duyuyoruz.
 
@@ -42,7 +42,7 @@ Kasalara [buradan](https://yearn.finance/vaults) göz atın.
 
 ## **YFI Bileşik Finansmana Eklendi**
 
-![](assets/images/YN43-image4.jpg)
+![](../assets/images/YN43-image4.jpg)
 
 YFI başarıyla bileşik finansa bir piyasa olarak eklenmiştir. An itibarıyla, sıfır teminat faktörü (başlangıçta),  aynı faiz oran modeli (COMP/LINK de olduğu gibi) ve her piyasa için %25 rezerv faktörüne (standart olarak) sahiptir. Yakın gelecekte teminat faktörleri arttırılacak ve kullanıcılar Compound üzerinde YFI arz edebilecek ve YFI teminatı ile token borç alabileceklerdir. Bu muhtemelen Yearn stratejistlerinin MarkerDAO’dan faydalanan, YFI vault için uygulanan mevcut stratejisine benzer bir YFI üretim stratejisi meydana getirmesine olanak sağlayacaktır. Böylece kullanıcılar entegrasyon sayesinde daha fazla net kazanç sağlayıp bu gelirleri arttırabilecektir. MarketDAO stratejileri hakkında daha fazla bilgi sahibi olmak için [buraya](https://yearn.fi/invest/0xE14d13d8B3b85aF791b2AADD661cDBd5E6097Db1) tıklayınız.
 
