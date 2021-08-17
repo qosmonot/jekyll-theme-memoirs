@@ -18,15 +18,7 @@ Yearn Finance Bülteninin 43. baskısına hoş geldiniz. Bu bültenle amacımız
 
 ## **YIP-63: Fon Oluşturucu-İlk DAO Yasal Aktivizmi**
 
-![](https://raw.githubusercontent.com/qosmonot/jekyll-theme-memoirs/master/assets/images/YN43-image2.jpg)
-![](assets/images/YN43-image2.jpg)
-![](./assets/images/YN43-image2.jpg)
 ![](../assets/images/YN43-image2.jpg)
-![](YN43-image2.jpg)
-![](assets/images/YN43-image2.jpg)
-![](./assets/images/YN43-image2.jpg)
-<img src="/assets/images/YN43-image2.jpg" alt="My cool logo"/>
-
 
 Gelir elde etmek ve diğer kurucu merkezli DeFi toplulukları için DeFi mevzuatları ortamındaki uygulamaları güçlendirmek amacıyla LeXpunK_DAO yasal taraflılığa dayandırılmalıdır. LeXpunK_DAO, katkıda bulunan toplulukların (yearn dahil) kurucuları ve LeXpunK Army 146  avukatları tarafından yönetilecektir.
 
